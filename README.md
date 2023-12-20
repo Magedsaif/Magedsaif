@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/abdelmageed-seif" target="_blank">
+  <a href="www.linkedin.com/in/abdelmageed-seif.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/maged_saif1" target="_blank">
